@@ -2,6 +2,8 @@
   <img src="https://user-images.githubusercontent.com/8456633/59972109-8e9c8480-95cc-11e9-8350-38f7f86ba76d.png">
 </p>
 
+<h1>Lazy podman : a lazy docker fork to work (better) with the podman API </h1>
+
 A simple terminal UI for both docker and docker-compose, written in Go with the [gocui](https://github.com/jroimartin/gocui 'gocui') library.
 
 [![CircleCI](https://circleci.com/gh/jesseduffield/lazydocker.svg?style=svg)](https://circleci.com/gh/jesseduffield/lazydocker)
